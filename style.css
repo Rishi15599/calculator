@@ -1,0 +1,62 @@
+.main{
+    margin-top: 100px;
+    margin-left: 550px;
+}
+.button{
+    font-size: 80px;
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+    border-radius: 50%;
+    border: 3px solid darkseagreen;
+    color: red;
+
+}
+.inputarea{
+    height: 80px;
+    width: 445px;
+    border-radius: 30px;
+    border: 3px solid darkseagreen;
+
+}
+.calculator{
+    font-size: 50px;
+    border-radius: 50%;
+}
+.radioButton{
+    height: 50px;
+    width: 50px;
+}
+.TextButton{
+    font-size: 30px;
+    color: red;
+    font-family: sans-serif;
+}
+
+
+
+
+
+.onoff
+{
+  width:32px;
+  height:32px;
+  padding:1px 2px 3px 3px;	
+  font-size:12px;
+  background:lightgray;
+  text-align:center;	
+}
+.onoff div
+{
+  width:18px;
+  height:18px;
+  min-height:18px;	
+  background:lightgray;
+  overflow:hidden;
+  border-top:1px solid gray;
+  border-right:1px solid white;
+  border-bottom:1px solid white;
+  border-left:1px solid gray;			
+  margin:0 auto;
+  color:gray;
+}
